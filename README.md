@@ -1,5 +1,7 @@
 # Drive Watcher
 
+![alt text](https://i.imgur.com/7Hg2AYf.png)
+
 Monitor the driver and identify drowsiness signs in time, before the situation becomes dangerous, and suggest him to take a break.
 
 Build some statistics based on driving habits and patterns in time.
