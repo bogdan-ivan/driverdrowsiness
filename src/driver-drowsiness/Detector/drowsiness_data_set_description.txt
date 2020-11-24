@@ -1,0 +1,10 @@
+The data in drowsiness_data_set reprezent the data collected from : https://sites.google.com/view/utarldd/home .
+the file format is 6Xplenty
+the columns are arranged in the following way and represent :
+time_from_last_blink
+Total_Blinks
+ear-> eye aspect ratio
+mar -> mouth aspect ratio
+MTotal -> number of yawns
+Roll -> the rotation of the head on Z axis 
+Class -> the class of the given input (0->aware,5->low vigilance,10->drowsie)
